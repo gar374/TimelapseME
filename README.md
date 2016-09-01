@@ -2,8 +2,8 @@
 
 Introduction:
 Timelapse Made Easy is an easy to use solution for non programmers to create timelapses using a raspberry pi
-without having to figure out all the capture options or the rendering options
-you just have to start the script, answer a few questions and you're done!
+without having to figure out all the capture or rendering options.
+You just have to start the script, answer a few questions and you're done!
 ###
 Pre Requisites:
 You'll need a raspberry pi (obviously) running raspbian
